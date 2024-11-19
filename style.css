@@ -1,0 +1,24 @@
+.logo {
+  width: 250px;
+}
+
+.bannerImage {
+  object-fit: cover;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.inputForm {
+  padding: 50px 0;
+}
+
+.footerContent {
+  display: grid;
+  gap: 10px;
+  margin-bottom: 50px;
+}
+
+.info {
+  margin: 0;
+  padding: 0;
+}
